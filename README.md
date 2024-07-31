@@ -1,10 +1,10 @@
 # Reinforcement Learning
 
-Step 1: Matrix Basics
-https://github.com/companyakis/reinforcement-learning-matrix
-
-Step 2: RL 101
+RL 101 (Ongoing):
 https://github.com/companyakis/rl-101
 
-Step 3: PyGame
+Step 3: PyGame (Not completed)
 https://github.com/companyakis/pygame-for-rl
+
+Matrix Basics:
+https://github.com/companyakis/reinforcement-learning-matrix
